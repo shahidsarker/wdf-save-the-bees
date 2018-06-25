@@ -31,6 +31,10 @@ header a:visited {
     text-decoration: none;
 }
 
+header a:hover {
+    color:white;
+}
+
 #moto {
     color: white;
     font-size: 25px;
