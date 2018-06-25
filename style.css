@@ -1,0 +1,31 @@
+div#facts {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#facts div {
+    max-width: 50%;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    width: 400px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-between;
+}
