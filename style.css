@@ -3,3 +3,8 @@ div#facts {
     display: flex;
     flex-direction: row;
 }
+
+footer {
+    width: 100%;
+    text-align: center;
+}
