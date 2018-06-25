@@ -59,6 +59,13 @@ header a:visited {
     width: 120px;
 }
 
+#about,
+#gallery,
+#facts {
+    width: 90%;
+    margin: 0 auto;
+}
+
 #gallery {
     display: flex;
     justify-content: space-between;
@@ -82,12 +89,22 @@ div #facts {
 }
 
 footer {
-    width: 100%;
-    text-align: center;
     margin: 0;
-    height: 150px;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    overflow: hidden;
     display: flex;
+    justify-content: space-between;
     align-items: center;
+}
+
+footer a:link,
+footer a:active,
+footer a:visited {
+    color: yellow;
+    text-decoration: none;
 }
 
 footer ul {
