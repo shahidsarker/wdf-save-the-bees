@@ -1,0 +1,9 @@
+#gallery {
+	display: flex;
+	justify-content: space-between;
+}
+
+img {
+	width: 95%;
+	border: solid 2px orange;
+}
