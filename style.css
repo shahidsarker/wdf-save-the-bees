@@ -21,7 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family:bigletters;
+    font-family: bigletters;
 }
 
 header a:link,
@@ -58,7 +58,7 @@ header a:visited {
     top: 300px;
     margin: 0;
     padding-top: 150px;
-    font-family:bigletters;
+    font-family: bigletters;
 }
 
 #arrow {
@@ -111,6 +111,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: bigletters;
 }
 
 footer a:link,
