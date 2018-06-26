@@ -37,9 +37,9 @@ The 'Save the Bees' website consists of an HTML file, a CSS stylesheet, and a me
 * **Shahid** - *Fact Collecting, Styling* - [shahidsarker](https://github.com/shahidsarker/)
 
 
-<!-- ## License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
+This project is licensed under The Unlicense - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
