@@ -100,3 +100,44 @@ footer ul {
     justify-content: space-between;
     align-content: space-between;
 }
+
+/*FACTS*/
+#facts1 ul {
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	
+}
+
+#facts1 h2 {
+	text-align: center;
+}
+
+#facts2 ul li a {
+	color: darkorange;
+}
+#facts2 ul li  {
+	color: darkorange;
+
+}
+
+#facts1 ul li {
+	background-image: url("media/honeycombs.svg");
+	/*background-repeat: no-repeat;*/
+    background-size: 200px 200px;
+
+}
+
+#facts2 h2 {
+	text-align: center;
+}
+
+#facts1 ul li {
+	padding: 20px;
+    width: 1000px;
+    margin: 1%;
+   background-color: #ffffff;
+    opacity: 0.8;
+    border-radius: 25px;
+    text-align: center;
+}
