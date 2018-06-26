@@ -2,6 +2,8 @@
 
 'Save the Bees' is a website created as an exercise in utilizing GitHub for team collaboration. The website is dedicated to information about saving bees to save the environment.
 
+![Save the Bees!](media/bees.gif)
+
 ## Usage:
 
 The 'Save the Bees' website can be used to experiment with the Git version control system.
